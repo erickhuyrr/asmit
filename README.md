@@ -1,51 +1,122 @@
-<h2 align="left">Hi 👋! My name is asmit adk and I'm a coder, from NepAL</h2>
+# 👋 Hi, I'm **Asmit Adk**
 
-###
+### 🚀 Full-Stack Developer | Backend Developer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickhuyrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickhuyrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### 🎯 *"Building fast, scalable & modern web experiences."*
+
+---
+
+# 🧠 Animated Typing
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&color=00F700\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;Backend+Developer;API+Developer;Web+Scraping+Expert;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
+# 🌐 Social & Profile Badges
+
+![GitHub followers](https://img.shields.io/github/followers/erickhuyrr?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/erickhuyrr?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=erickhuyrr\&style=for-the-badge)
+
+---
+
+# 💡 About Me
+
+```yaml
+name: Asmit Adk
+role: Full-Stack & Backend Developer
+skills:
+  - HTML, CSS, JavaScript
+  - Node.js, React
+  - MongoDB, Firebase
+  - Tailwind, Git
+  - API Development
+  - Cloudflare
+  - Web Scraping
+passion: "Building powerful backend systems & modern web apps"
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,tailwind" />
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare" />
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+# 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickhuyrr\&show_icons=true\&theme=radical\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhuyrr\&layout=compact\&theme=radical\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickhuyrr\&theme=radical\&hide_border=true)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=erickhuyrr\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=10)
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 📈 Activity Graph
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickhuyrr\&theme=react-dark\&hide_border=true)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickhuyrr)](https://github.com/LordDashMe/github-contribution-stats/)
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/erickhuyrr/erickhuyrr/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### (Add your project links here)
+
+* 🔥 **Project 1** – Description
+* ⚡ **Project 2** – Description
+* 🚀 **Project 3** – Description
+
+---
+
+# 📬 Contact
+
+**📧 Email:** your-email-here
+**🌐 GitHub:** [github.com/erickhuyrr](https://github.com/erickhuyrr)
+
+---
+
+### ⭐ If you like this README, consider giving my repositories a star!
